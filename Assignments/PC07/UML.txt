@@ -1,0 +1,11 @@
++--------------------------------+
+|	      Rainfall		   |
++--------------------------------+
+|-rain : double[]                |
++--------------------------------+
+|+Rainfall(rain : double[])      |
+|+calcTotalRainfall() : double   |
+|+calcAverageRainfall() : double |
+|+findMostRainfall() : int       |
+|+findLeastRainfall() : int	   |
++--------------------------------+
